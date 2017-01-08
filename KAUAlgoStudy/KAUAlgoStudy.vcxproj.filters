@@ -78,6 +78,9 @@
     <ClCompile Include="11399 ATM.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1946 신입 사원.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt" />
